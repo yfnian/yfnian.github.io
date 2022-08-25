@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yfnian.github.io/sitemap.xml
