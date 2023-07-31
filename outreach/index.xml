@@ -5,12 +5,21 @@
     <link>https://yfnian.github.io/outreach/</link>
       <atom:link href="https://yfnian.github.io/outreach/index.xml" rel="self" type="application/rss+xml" />
     <description>Outreach</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yfnian.github.io/media/logo_huf922fe7c75df5799066b0dc141ce13cc_36123_300x300_fit_lanczos_3.png</url>
       <title>Outreach</title>
       <link>https://yfnian.github.io/outreach/</link>
     </image>
+    
+    <item>
+      <title>Consumer Preference Studies for Eco-Labeled Food Database</title>
+      <link>https://yfnian.github.io/outreach/eco-label-database/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yfnian.github.io/outreach/eco-label-database/</guid>
+      <description>&lt;iframe title=&#34;Report Section&#34; width=&#34;700&#34; height=&#34;800&#34; src=&#34;https://app.powerbi.com/view?r=eyJrIjoiYjg3NTAyYjAtY2FlYS00MDAxLTg2OTctNWE1MTM0M2I3YzFlIiwidCI6IjBkNGRhMGY4LTRhMzEtNGQ3Ni1hY2U2LTBhNjIzMzFlMWI4NCIsImMiOjF9&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
