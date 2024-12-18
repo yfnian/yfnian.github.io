@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Outreach | Yefan Nian</title>
-    <link>https://yfnian.github.io/outreach/</link>
-      <atom:link href="https://yfnian.github.io/outreach/index.xml" rel="self" type="application/rss+xml" />
-    <description>Outreach</description>
+    <title>Publication_types | Yefan Nian</title>
+    <link>https://yfnian.github.io/publication_types/</link>
+      <atom:link href="https://yfnian.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://yfnian.github.io/media/logo_huf922fe7c75df5799066b0dc141ce13cc_36123_300x300_fit_lanczos_3.png</url>
-      <title>Outreach</title>
-      <link>https://yfnian.github.io/outreach/</link>
+      <title>Publication_types</title>
+      <link>https://yfnian.github.io/publication_types/</link>
     </image>
     
   </channel>
